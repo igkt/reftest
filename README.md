@@ -1,1 +1,3 @@
 # reftest
+
+foo
